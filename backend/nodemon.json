@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "sam",
+        "MONGO_PASSWORD": "root",
+        "MONGO_DEFAULT_DATABASE": "BookApplication"
+       
+    }
+}
